@@ -1,0 +1,69 @@
+{
+    "current_index": 0,
+    "total_points": 0,
+    "today_completed": false,
+    "last_study_date": "2026-03-22",
+    "daily_words": [
+        {
+            "word": "old",
+            "pronunciation": "[əuld]",
+            "definition": "年老的",
+            "example_sentence": "My grandpa is very old but healthy."
+        },
+        {
+            "word": "young",
+            "pronunciation": "[jʌŋ]",
+            "definition": "年轻的",
+            "example_sentence": "The young boy can run very fast."
+        },
+        {
+            "word": "funny",
+            "pronunciation": "[ˈfʌni]",
+            "definition": "滑稽可笑的",
+            "example_sentence": "The clown is very funny."
+        },
+        {
+            "word": "kind",
+            "pronunciation": "[kaɪnd]",
+            "definition": "和蔼的",
+            "example_sentence": "Our English teacher is very kind."
+        },
+        {
+            "word": "strict",
+            "pronunciation": "[strɪkt]",
+            "definition": "严格的",
+            "example_sentence": "My father is strict with my study."
+        },
+        {
+            "word": "polite",
+            "pronunciation": "[pəˈlaɪt]",
+            "definition": "有礼貌的",
+            "example_sentence": "We should be polite to others."
+        },
+        {
+            "word": "hard-working",
+            "pronunciation": "/",
+            "definition": "努力工作的",
+            "example_sentence": "She is a hard-working student."
+        },
+        {
+            "word": "helpful",
+            "pronunciation": "[ˈhelpfəl]",
+            "definition": "有帮助的",
+            "example_sentence": "A robot is very helpful at home."
+        },
+        {
+            "word": "clever",
+            "pronunciation": "[ˈklevə(r)]",
+            "definition": "聪明的",
+            "example_sentence": "The clever dog can open the door."
+        },
+        {
+            "word": "shy",
+            "pronunciation": "[ʃɪ]",
+            "definition": "害羞的",
+            "example_sentence": "The shy girl did not speak."
+        }
+    ],
+    "spell_index": 0
+}
